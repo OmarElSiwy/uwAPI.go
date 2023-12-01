@@ -31,6 +31,8 @@ import (
     "github.com/OmarElSiwy/uwAPI.go"
 )
 
+apiKey  = "" // FILL THIS IN USING YOUR OWN API KEY
+
 func main() {
     // Get class schedules for a specific term
     termCode := "1209" // Example term code
