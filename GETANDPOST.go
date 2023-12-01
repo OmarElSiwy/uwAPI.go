@@ -8,7 +8,7 @@ import (
 
 const (
 	baseURL = "https://api.example.com/v3"
-	apiKey  = "D0ED10AD93A34867BC9BFA4211A32B81"
+	apiKey  = "" // FILL THIS IN
 )
 
 /*
